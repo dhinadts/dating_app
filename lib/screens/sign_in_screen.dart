@@ -10,6 +10,12 @@ class SignInScreen extends ConsumerStatefulWidget {
 }
 
 class _SignInScreenState extends ConsumerState<SignInScreen> {
+/*  final _formKey = GlobalKey<FormState>();
+  final _email = TextEditingController();
+  final _password = TextEditingController();
+  bool _loading = false;
+
+  */
   final _emailCtrl = TextEditingController();
   final _passCtrl = TextEditingController();
   bool _isRegister = false;
