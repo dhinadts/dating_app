@@ -50,8 +50,10 @@ ios/Runner/GoogleService-Info.plist
 ---
 
 
-###Next Steps (future roadmap)
-##You should include these points at bottom of README for future dev reference:
+### Next Steps (future roadmap)
+
+## You should include these points at bottom of README for future dev reference:
+
 add chat system (Firestore subcollection /matches/{matchId}/messages)
 show ONLY users not yet liked/disliked (where not in lists)
 add real filtering (age range / location)
