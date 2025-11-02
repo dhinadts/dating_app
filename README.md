@@ -52,13 +52,13 @@ ios/Runner/GoogleService-Info.plist
 
 ### Next Steps (future roadmap)
 
-## You should include these points at bottom of README for future dev reference:
+## For future dev reference:
 
-add chat system (Firestore subcollection /matches/{matchId}/messages)
-show ONLY users not yet liked/disliked (where not in lists)
-add real filtering (age range / location)
-add pagination instead of limit(50)
-store user interests
-premium logic (limited swipes / boost)
+- add chat system (Firestore subcollection /matches/{matchId}/messages)
+- show ONLY users not yet liked/disliked (where not in lists)
+- add real filtering (age range / location)
+- add pagination instead of limit(50)
+- store user interests
+- premium logic (limited swipes / boost)
 
 
