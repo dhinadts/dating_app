@@ -41,6 +41,10 @@ ios/Runner/GoogleService-Info.plist
   <img src="assets/screenshots/2.jpg" width="180"/>
   <img src="assets/screenshots/3.jpg" width="180"/>
   <img src="assets/screenshots/4.jpg" width="180"/>
+    <img src="assets/screenshots/5.jpg" width="180"/>
+  <img src="assets/screenshots/6.jpg" width="180"/>
+
+
 </p>
 
 ---
